@@ -1,0 +1,22 @@
+.filter {
+    margin-bottom: 20px;
+  }
+  
+  .filter label {
+    margin-right: 10px;
+  }
+  
+  .table-container {
+    margin-bottom: 20px;
+  }
+  
+  .pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination {
+    margin: 0;
+  }
+  
